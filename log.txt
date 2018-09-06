@@ -1,0 +1,6 @@
+notas de aqui
+https://redux.js.org/basics/usagewithreact
+
+y antes de aqui
+
+https://medium.com/coding-artist/redux-from-scratch-chapter-3-implementing-with-react-baf74c0b44ae
